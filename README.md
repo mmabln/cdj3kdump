@@ -32,10 +32,13 @@ options:
 
 How to use
 ----------
-- Solder wires to the CDJ 3K debug interface (CN9001 pads, TX/RX/GND) and connect it with a USB-to-serial converter set to 3.3V
+- Solder wires to the CDJ 3K debug interface (CN9001 pads, TX/RX/GND)
+- Connect the correct pins to a USB-to-serial adapter and set it to 3.3V
+- Connect the adapter to your PC
 - Open a terminal program
 - Start the CDJ3k
 - Interrupt the boot process by htting CTRL-C
+- Play with u-boot if you want but be careful
 - Close you terminal program when you want to start the dump
 - Run the dump_image.py script
 - Hints:
