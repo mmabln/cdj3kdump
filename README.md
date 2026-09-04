@@ -58,11 +58,13 @@ What next?
 - Use the respective tool and then cpio to get the contents
 - Have fun!
 
-### Locate the CN9001 debug connector
+Pictures
+--------
+#### Locate the CN9001 debug connector
 ![Debug connector](cdj3k_cn9001.JPG?raw=true "Locate the connector")
 
-### Solder TX/RX/GND cables
+#### Solder TX/RX/GND cables
 ![Debug connector](cdj3k_solder.JPG?raw=true "Solder the TX/RX/GND cables")
 
-### Connect the adapter (set to 3.3V!)
+#### Connect the adapter (set to 3.3V!)
 ![Debug connector](cdj3k_adapter.JPG?raw=true "Connect the adapter")
