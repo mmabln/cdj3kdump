@@ -37,6 +37,7 @@ How to use
 - Connect the correct pins to a USB-to-serial adapter and set it to 3.3V
 - See pictures at the end
 - Connect the adapter to your PC
+- Configure the adapter: Baudrate 115200, 8N1, no flow control
 - Open a terminal program
 - Start the CDJ3k
 - Interrupt the boot process by htting CTRL-C
