@@ -34,6 +34,7 @@ How to use
 ----------
 - Solder wires to the CDJ 3K debug interface (CN9001 pads, TX/RX/GND)
 - Connect the correct pins to a USB-to-serial adapter and set it to 3.3V
+- See pictures at the end
 - Connect the adapter to your PC
 - Open a terminal program
 - Start the CDJ3k
@@ -56,4 +57,12 @@ What next?
 - Look for LZ4 and GZ compressed parts in the dump
 - Use the respective tool and then cpio to get the contents
 - Have fun!
-  
+
+### Locate the CN9001 debug connector
+![Debug connector](cdj3k_cn_9001.JPG?raw=true "Locate the connector")
+
+### Solder TX/RX/GND cables
+![Debug connector](cdj3k_solder.JPG?raw=true "Solder the TX/RX/GND cables")
+
+### Connect the adapter (set to 3.3V!)
+![Debug connector](cdj3k_adapter.JPG?raw=true "Connect the adapter")
