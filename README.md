@@ -32,6 +32,7 @@ options:
 
 How to use
 ----------
+- *NOTE:* The CDJ will only boot with the upper control section connected. Be careful with the FFC cables. Check the service manual for disassembly and precautions
 - Solder wires to the CDJ 3K debug interface (CN9001 pads, TX/RX/GND)
 - Connect the correct pins to a USB-to-serial adapter and set it to 3.3V
 - See pictures at the end
