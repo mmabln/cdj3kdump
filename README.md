@@ -59,7 +59,7 @@ What next?
 - Have fun!
 
 ### Locate the CN9001 debug connector
-![Debug connector](cdj3k_cn_9001.JPG?raw=true "Locate the connector")
+![Debug connector](cdj3k_cn9001.JPG?raw=true "Locate the connector")
 
 ### Solder TX/RX/GND cables
 ![Debug connector](cdj3k_solder.JPG?raw=true "Solder the TX/RX/GND cables")
